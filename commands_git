@@ -7,4 +7,3 @@ git status ----show stauts of the files and folder
 git init  --- create a git folder 
 git config --global user.email "hthakur600@gmail.com"
 git config --global user.name "Himanshu9528"   
-     
