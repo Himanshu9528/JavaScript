@@ -6,4 +6,9 @@ ls -la  ---to show all folders and files
 git status ----show stauts of the files and folder
 git init  --- create a git folder 
 git config --global user.email "hthakur600@gmail.com"
-git config --global user.name "Himanshu9528"   
+git config --global user.name "Himanshu9528"  
+git add .   ---to add files
+git status
+git log
+git commit -m "message"
+git config --global core.editor "code --wait"
