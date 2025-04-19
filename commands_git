@@ -21,3 +21,4 @@ git merge branchname
 git branch -m oldbranchName newBranchName
 git branch -d branchName
 git diff branch1..branch2
+git push -u origin main
