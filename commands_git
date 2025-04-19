@@ -17,3 +17,7 @@ git branch newBranch
 git switch newBranch
 git switch -c newBranch
 git checkout newBranch
+git merge branchname
+git branch -m oldbranchName newBranchName
+git branch -d branchName
+git diff branch1..branch2
