@@ -12,3 +12,8 @@ git status
 git log
 git commit -m "message"
 git config --global core.editor "code --wait"
+git branch
+git branch newBranch
+git switch newBranch
+git switch -c newBranch
+git checkout newBranch
